@@ -4,8 +4,13 @@
 	git add [文件名]
 提交文件到仓库
 	git commit -m [注释]  该命令会提交所有已添加的文件
+
+合并步骤一起提交到仓库
+	git commit -am [注释]
+
 查看仓库的当前状态
-	git status -s
+	git status -s   
+	A:表示已经add AM:表示已经添加后又有所改动
 查看历史提交记录
 	git log --pretty=oneline
 
