@@ -3,3 +3,4 @@ Git is free software.
 today is 2016/5/27
 cache area
 git tracks changes
+Ð¡ÎÚ¹êgit
